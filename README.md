@@ -11,4 +11,4 @@ x is of type :<class 'int'>
 y=10.6
 y is of type :<class float>
 Explicit type conversion datatype is manually changed by the user as per their requirement.
- int a =(int)3.69f
+ 

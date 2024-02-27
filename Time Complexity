@@ -1,1 +1,5 @@
-
+What is time complexity?
+The time taken to each statement of code in an algorithm to be executed.there are three types of time complexity  bestcasecomplexity,
+averagecasecomplexity,worstcasecomplexity.
+why do we ignore constants?
+As the input increases  the constant make negligible importance so we cannot consider constants.

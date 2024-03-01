@@ -1,1 +1,3 @@
-
+for x in "python":
+print(x)
+for loop is used for iterating over a sequence

@@ -1,1 +1,14 @@
-
+The different methods in python are append(),copy(),clear(),extend(),index(),insert(),pop(),remove(),sort(),reverse(),min(),max().
+method                    Description
+append                 used to add elements at the end of the list.
+copy                   it returns a shallow copy of the list.
+clear                   this method is used to clear all items of the list.
+extend                  adds each element of the iterable at the end of the list.
+index                   returns the lowest where the element appears.
+insert                  insert a given element at a given index at a list.
+pop ()                  to remove the element specified by the index value.
+remove()                 removes a given object from the list.
+sort()                    sort the list in either ascending , descending or user -defined list.
+reverse()               reverse the objects of the list.
+min()                     to calculate the minimum values of the list.
+max()                     to calculate the maximum values of the list.

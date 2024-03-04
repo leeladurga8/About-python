@@ -1,9 +1,17 @@
 What is time complexity?
 The time taken to each statement of code in an algorithm to be executed.there are three types of time complexity 
 bestcasecomplexity,averagecasecomplexity,worstcasecomplexity.
+
 why do we ignore constants?
 As the input increases  the constant make negligible importance so we cannot consider constants.
 
+why we only consider the largest component time complexity in algorithm?
+using little memory as possible (space effieciency)
+running as fast as possible (time efficiency)
+We want to look in to worst case complexity as small input size has fast running time so 
+it is not concern and the best case is not the case to algorithm to be  concern ,average case is 
+difficult in the real world inputs are not generalized easily to algorithms.worst case is the 
+best case time complexity of an algorithm.
 
 what is space complexity?
 The problem-solving using computer requires memory to hold temporary data or final result

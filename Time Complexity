@@ -1,5 +1,20 @@
 What is time complexity?
-The time taken to each statement of code in an algorithm to be executed.there are three types of time complexity  bestcasecomplexity,
-averagecasecomplexity,worstcasecomplexity.
+The time taken to each statement of code in an algorithm to be executed.there are three types of time complexity 
+bestcasecomplexity,averagecasecomplexity,worstcasecomplexity.
 why do we ignore constants?
 As the input increases  the constant make negligible importance so we cannot consider constants.
+
+
+what is space complexity?
+The problem-solving using computer requires memory to hold temporary data or final result
+while the programm is in execution.the amount of memory required by the algorithm to solve given 
+problem is called space complexity of the algorithm.the amount of space taken by an algorithm to 
+run as a function of the length of the input.
+ex:nums = [1,2,3,1,5]
+empty = []
+for n in nums:
+if n not in empty:
+empty.append(n)
+else:
+print(n)
+space complexity is -O(n)

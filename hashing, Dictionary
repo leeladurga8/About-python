@@ -8,3 +8,10 @@ the dictionary holds pairs of values one being the key and the other correspondi
 its key: value
 values can be of any datatype and can be duplicated ,where as keys cannot be repeated and it is 
 immutable.
+Dict = {1 : 'greeks', 2 : 'for' }
+print (Dict)
+methods to add in Dictionary:
+items (): Returns the list with all keys with values
+keys() : Returns a view object that display list of all the keys in the dictionary in the order 
+of insertion
+values(): it updates the dictionary with elements from another dictionary.

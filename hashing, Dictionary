@@ -1,3 +1,10 @@
 what is hashing?
 A. use hashing to transform input data in to fixed size value.This value represents the data uniquely and stores varoius forms of data securely.it 
 doesnot allow unauthorized access  .
+what is Dictionary?
+A. Dictionary in python is a datastructure that stores the value in key:value pairs
+A dictionary can be created by placing a sequence of elements with in curly braces{} seperated by comma
+the dictionary holds pairs of values one being the key and the other corresponding pair element being 
+its key: value
+values can be of any datatype and can be duplicated ,where as keys cannot be repeated and it is 
+immutable.
